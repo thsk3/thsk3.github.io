@@ -1,0 +1,27 @@
+:root {
+    --color-point: #f4abc4;
+    --color-light: #595b83;
+    --color-main: #333456;
+    --color-dark: #060930;
+}
+body {
+    margin: 0;
+}
+div {
+    box-sizing: border-box;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+    font-size: 1rem;
+}
+li {
+    padding: 0;
+    list-style: none;
+}

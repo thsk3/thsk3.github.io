@@ -1,0 +1,7 @@
+#root {
+    padding: 1rem;
+}
+.app {
+    color: var(--color-dark);
+    padding-top: 0.1px;
+}
